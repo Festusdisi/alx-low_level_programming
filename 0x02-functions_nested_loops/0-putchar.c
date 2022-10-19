@@ -8,13 +8,12 @@
 
 int main(void)
 {
-(*_*)
-(_)
-(_):
-(p):
-(u):
-(t):
-(h):
-(a):
-(r):
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+return (0);
  }
