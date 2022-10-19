@@ -1,1 +1,1 @@
-0-putchar
+0x02 functions nested loops
